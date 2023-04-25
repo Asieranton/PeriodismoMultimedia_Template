@@ -70,11 +70,6 @@ En general el juego se ha inspirado en las clásicas novelas gráficas con opcio
 
 
 
-
-
-
-
-
 ### Etapa 2: Prototipar / productos 
 
 
@@ -97,9 +92,7 @@ A su vez, se pediría participación de algunos personajes (alumnos que aparecen
 
 (Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
 
-La principal herramienta que podríamos usar como indicador de éxito sería la de preguntar a través de encuestas al resto de compañeros de clase y en general a los directores del propio máster. A través de ellos podremos recoger no solo el grado de satisfacción sino que serán quienes mejor pueden ayudarnos a evaluar el propio trabajo y qué cosas mejorarían de cara a futuros proyectos.
-
-Una vez se lanzase el juego completo también sería interesante recibir "feedback" en las distintas redes sociales.
+La principal herramienta que podríamos usar como indicador de éxito sería la de preguntar a través de encuestas al resto de compañeros de clase y en general a los directores del propio máster. A través de ellos podremos recoger no solo el grado de satisfacción sino que serán quienes mejor pueden ayudarnos a evaluar el propio trabajo y qué cosas mejorarían de cara a futuros proyectos. Una vez se lanzase el juego completo también sería interesante recibir "feedback" en las distintas redes sociales.
 
 
 
@@ -108,10 +101,15 @@ Una vez se lanzase el juego completo también sería interesante recibir "feedba
 
 
 * Grado de consecución del proyecto: Consideramos que hemos captado la esencia que teníamos pensado en un principio, además, con los proyectos de Arcwave y Protopie se puede ver qué es lo que queríamos transmitir. Obviamente nos ha faltado tiempo para cumplir el total de nuestros objetivos pero en general hemos cumplido con nuestro proposito inicial.
+
 * Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) :El principal problema que hemos tenido ha sido el tiempo, ya que nos hubiera gustado desarrollar más la historia y los personajes, así como haber desarrollado más los recursos audioviales utilizados o usar alguna herramienta más compleja que hubiera sido más visual o interactiva de las que hemos usado. Además creemos que el hecho de tener tantas herramientas para elegir y tan poco tiempo también ha hecho que no hayamos experimentado al máximo con todas las oportunidades que nos ofrecían.
+
 * Propuestas de mejora (por qué consideras que merece la pena continuar):  En un principio, nuestra idea era que las figuras de los personajes aparecieran sobre el escenario, y que fueran cambiando las expresiones faciales y posturas corporales. Además, se pueden añadir muchas más historias y personajes que estén relacionados a la trama. Por otro lado, puede que otra plataforma más compleja, nos hubiera brindado más interactividad con el usuario, si embargo, tanto Arcwave como Protopie nos han servido para desarrollar la idea de una forma más sencilla e intuitiva. La realidad es que se trata de un proyecto que de haber seguido podriamos haber creado una historia con muchos mas caminos y generando un experiencia aún mas completa e inmersiva.
+
 * Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?) : El principal colaborador que podría estar interesado es la facultad de Comunicación y Documentación, tanto como la Universidad de Granada, ya que es una forma de dar a conocer el máster de Nuevos Medios entre los jóvenes, con un tono de humor.  
+
 * En cuanto a si es viable, la realidad es que no sería un proyecto que tendría un coste demasiado elevado y parece viable incluso que se hiciese todos los años un proyecto similar para dar a conocer a nuevos alumnos. 
+
 * A su vez, puede ser un proyecto que se continue en el tiempo. Podría motivarse a los alumnos a que este fuese un juego que se hace cada año, poniendo de ejemplo cada año el del anterior y así pueda motivar a futuros alumnos a desarrollar sus propias historias. De esta manera se consigue un beneficio tanto para el propio master como una motivación para el alumnado. Por ello, vemos viable que se hagan futuras "temporadas" o "ediciones" de "El máster este"
 
 
