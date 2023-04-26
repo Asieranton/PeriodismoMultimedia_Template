@@ -15,7 +15,10 @@ Univesidad de Granada
 
 **Resumen** :  Un alumn@ nuevo llega al máster de NM. En su primer día, conocerá la facultad, y a sus nuevos compañeros y profesores. Se incorpora tarde, por unos problemas burocráticos, y tiene la suerte de que sus compañeros se llevan muy bien… tanto que ya tienen anécdotas, opiniones e historias sobre el máster, por lo que en el primer contacto, se irá enterando de todo lo que ha pasado en su ausencia.
 
-**logotipo** :  ![WhatsApp Image 2023-04-25 at 10 19 42 AM](https://user-images.githubusercontent.com/130590604/234217620-35ac3846-d546-4e76-9465-cb22e78141d1.jpeg)
+**logotipo** : 
+
+![WhatsApp Image 2023-04-25 at 10 19 42 AM](https://user-images.githubusercontent.com/130590604/234217620-35ac3846-d546-4e76-9465-cb22e78141d1.jpeg)
+
 **Slogan** (frase motivadora/inspiradora): Trabajar se nos da casi igual de bien que salir de fiesta
 
 **Hashtag**  #ElMásterEste #NuevosMediosInteractivosYPeriodismoMultimedia #UGR #FacultadComunicaciónYDocumentación
