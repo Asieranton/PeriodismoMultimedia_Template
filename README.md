@@ -78,7 +78,7 @@ En general el juego se ha inspirado en las clásicas novelas gráficas con opcio
 
 * Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
 
-Como tal no hemos creado una portada para el juego. La interfaz la hemos diseñado en arcwave. Sin embargo el juego de Propopie si que tiene una portada.
+Como tal no hemos creado una portada para el juego. La interfaz la hemos diseñado en arcwave. Sin embargo el juego de Protopie si que tiene una portada.
 
 
 ![image](https://user-images.githubusercontent.com/130590654/234410930-91aa7aed-b65f-4af3-ab04-155bce1f1487.png)
